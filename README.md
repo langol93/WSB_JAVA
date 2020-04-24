@@ -1,0 +1,2 @@
+# Szwagier
+ Swagger API
